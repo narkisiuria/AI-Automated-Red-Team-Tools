@@ -1,0 +1,10 @@
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\debug\build\lock_api/bec5e3f13f1e6398\out\lock_api-bec5e3f13f1e6398.d: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\lib.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\mutex.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\remutex.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\rwlock.rs
+
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\debug\build\lock_api/bec5e3f13f1e6398\out\liblock_api-bec5e3f13f1e6398.rlib: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\lib.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\mutex.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\remutex.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\rwlock.rs
+
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\debug\build\lock_api/bec5e3f13f1e6398\out\liblock_api-bec5e3f13f1e6398.rmeta: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\lib.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\mutex.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\remutex.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\rwlock.rs
+
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\lib.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\mutex.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\remutex.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lock_api-0.4.14\src\rwlock.rs:

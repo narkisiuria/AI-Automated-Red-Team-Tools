@@ -1,0 +1,10 @@
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\debug\build\zeroize/cab17f8e3f45024e\out\zeroize-cab17f8e3f45024e.d: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\lib.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\x86.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\barrier.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\bulk.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\stack.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\../README.md
+
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\debug\build\zeroize/cab17f8e3f45024e\out\libzeroize-cab17f8e3f45024e.rmeta: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\lib.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\x86.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\barrier.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\bulk.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\stack.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\../README.md
+
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\lib.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\x86.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\barrier.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\bulk.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\stack.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zeroize-1.9.2\src\../README.md:

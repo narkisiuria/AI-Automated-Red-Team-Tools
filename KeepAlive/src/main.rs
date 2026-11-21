@@ -1,8 +1,10 @@
+#![allow(unused_parens)]
+#![allow(unused_must_use)]
 use winreg::enums::*;
 use winreg::RegKey;
 fn main() {
     let args: Vec<String> = std::env::args().collect();
-    if (args.len() < 3) {
+    if args.len() < 3 {
         println!("usage: KeepAlive.exe newUserUSER newUserPASS");
         std::process::exit(1);
     }

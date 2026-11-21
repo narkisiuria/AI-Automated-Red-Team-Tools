@@ -1,0 +1,10 @@
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\debug\build\idna/7505eba6196e773a\out\idna-7505eba6196e773a.d: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\lib.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\deprecated.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\punycode.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\uts46.rs
+
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\debug\build\idna/7505eba6196e773a\out\libidna-7505eba6196e773a.rlib: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\lib.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\deprecated.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\punycode.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\uts46.rs
+
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\debug\build\idna/7505eba6196e773a\out\libidna-7505eba6196e773a.rmeta: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\lib.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\deprecated.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\punycode.rs C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\uts46.rs
+
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\lib.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\deprecated.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\punycode.rs:
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\idna-1.1.0\src\uts46.rs:
