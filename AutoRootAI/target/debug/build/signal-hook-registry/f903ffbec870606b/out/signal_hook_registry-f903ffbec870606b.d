@@ -1,9 +1,0 @@
-/mnt/c/Users/Uria Narkisi/Documents/AI_Automated_PT_Tools/AutoRootAI/target/debug/build/signal-hook-registry/f903ffbec870606b/out/signal_hook_registry-f903ffbec870606b.d: /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs
-
-/mnt/c/Users/Uria Narkisi/Documents/AI_Automated_PT_Tools/AutoRootAI/target/debug/build/signal-hook-registry/f903ffbec870606b/out/libsignal_hook_registry-f903ffbec870606b.rlib: /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs
-
-/mnt/c/Users/Uria Narkisi/Documents/AI_Automated_PT_Tools/AutoRootAI/target/debug/build/signal-hook-registry/f903ffbec870606b/out/libsignal_hook_registry-f903ffbec870606b.rmeta: /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs
-
-/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/lib.rs:
-/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/half_lock.rs:
-/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/signal-hook-registry-1.4.8/src/vec_map.rs:
