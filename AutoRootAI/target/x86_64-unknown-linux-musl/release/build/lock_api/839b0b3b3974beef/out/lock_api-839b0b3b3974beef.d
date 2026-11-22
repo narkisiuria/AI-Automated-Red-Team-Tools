@@ -1,0 +1,10 @@
+/mnt/c/Users/Uria Narkisi/Documents/AI_Automated_PT_Tools/AutoRootAI/target/x86_64-unknown-linux-musl/release/build/lock_api/839b0b3b3974beef/out/lock_api-839b0b3b3974beef.d: /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/lib.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/mutex.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/remutex.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/rwlock.rs
+
+/mnt/c/Users/Uria Narkisi/Documents/AI_Automated_PT_Tools/AutoRootAI/target/x86_64-unknown-linux-musl/release/build/lock_api/839b0b3b3974beef/out/liblock_api-839b0b3b3974beef.rlib: /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/lib.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/mutex.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/remutex.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/rwlock.rs
+
+/mnt/c/Users/Uria Narkisi/Documents/AI_Automated_PT_Tools/AutoRootAI/target/x86_64-unknown-linux-musl/release/build/lock_api/839b0b3b3974beef/out/liblock_api-839b0b3b3974beef.rmeta: /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/lib.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/mutex.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/remutex.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/rwlock.rs
+
+/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/lib.rs:
+/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/mutex.rs:
+/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/remutex.rs:
+/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.14/src/rwlock.rs:

@@ -1,0 +1,10 @@
+/mnt/c/Users/Uria Narkisi/Documents/AI_Automated_PT_Tools/AutoRootAI/target/x86_64-unknown-linux-musl/release/build/log/78afd0ac6ce82fc5/out/log-78afd0ac6ce82fc5.d: /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/lib.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/macros.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/serde.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/__private_api.rs
+
+/mnt/c/Users/Uria Narkisi/Documents/AI_Automated_PT_Tools/AutoRootAI/target/x86_64-unknown-linux-musl/release/build/log/78afd0ac6ce82fc5/out/liblog-78afd0ac6ce82fc5.rlib: /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/lib.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/macros.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/serde.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/__private_api.rs
+
+/mnt/c/Users/Uria Narkisi/Documents/AI_Automated_PT_Tools/AutoRootAI/target/x86_64-unknown-linux-musl/release/build/log/78afd0ac6ce82fc5/out/liblog-78afd0ac6ce82fc5.rmeta: /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/lib.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/macros.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/serde.rs /home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/__private_api.rs
+
+/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/lib.rs:
+/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/macros.rs:
+/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/serde.rs:
+/home/uria_narkisi/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.35/src/__private_api.rs:

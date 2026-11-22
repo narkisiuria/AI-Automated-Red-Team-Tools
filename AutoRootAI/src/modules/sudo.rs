@@ -4,7 +4,7 @@ use std::process::{Command, Stdio, Output};
 
 pub fn run_initial_sudo() -> String {
     let output: Output = Command::new("sudo")
-        .args(["-l"])
+        .args(["-l", "-n"])
         .stderr(Stdio::null())
         .output()
         .expect("Failed to run sudo -l");
