@@ -7,17 +7,20 @@ use std::error::Error;
 
 pub async fn ask_grok(sys_prompt: &str, user_content: &str) -> Result<String, Box<dyn Error>> {
     let api_key = std::env::var("GROQ_API_KEY").expect("GROQ_API_KEY not set in .env");
-    let model = "llama-3.1-8b-instant";
+    let model: &str = "openai/gpt-oss-20b";
 
     let call_body = serde_json::json!({
-        "model": "llama-3.1-8b-instant",
+        "model": model,
         "messages": [
             {"role": "system", "content": &sys_prompt},
             {"role": "user", "content": &user_content}
-        ]
+        ],
+        "temperature": 0
         });
 
-    let client = Client::new();
+    let client: Client = Client::builder()
+        .proxy(reqwest::Proxy::all("socks5h://127.0.0.1:1080")?)
+        .build()?;
         
     let response = client
         .post("https://api.groq.com/openai/v1/chat/completions")
