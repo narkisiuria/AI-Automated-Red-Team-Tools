@@ -1,0 +1,7 @@
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\x86_64-unknown-linux-gnu\debug\build\want/9397afc5ca096830\out\want-9397afc5ca096830.d: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\want-0.3.2\src\lib.rs
+
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\x86_64-unknown-linux-gnu\debug\build\want/9397afc5ca096830\out\libwant-9397afc5ca096830.rlib: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\want-0.3.2\src\lib.rs
+
+C:\Users\Uria Narkisi\Documents\AI_Automated_PT_Tools\AutoRootAI\target\x86_64-unknown-linux-gnu\debug\build\want/9397afc5ca096830\out\libwant-9397afc5ca096830.rmeta: C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\want-0.3.2\src\lib.rs
+
+C:\Users\Uria\ Narkisi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\want-0.3.2\src\lib.rs:
