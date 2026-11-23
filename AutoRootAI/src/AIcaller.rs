@@ -1,11 +1,12 @@
 #![allow(unused_parens)]
 #![allow(unused_must_use)]
+#[allow(non_snake_case)]
 use reqwest::Client;
-use serde_json::{json, Value};
-use std::env;
+use serde_json::Value;
 use std::error::Error;
 
 pub async fn ask_grok(sys_prompt: &str, user_content: &str) -> Result<String, Box<dyn Error>> {
+    dotenv::dotenv().ok();
     let api_key = std::env::var("GROQ_API_KEY").expect("GROQ_API_KEY not set in .env");
     let model: &str = "openai/gpt-oss-20b";
 
@@ -18,9 +19,13 @@ pub async fn ask_grok(sys_prompt: &str, user_content: &str) -> Result<String, Bo
         "temperature": 0
         });
 
-    let client: Client = Client::builder()
-        .proxy(reqwest::Proxy::all("socks5h://127.0.0.1:1080")?)
-        .build()?;
+    let client = if std::env::var("NO_PROXY").is_ok() {
+        Client::new()
+    } else {
+        Client::builder()
+            .proxy(reqwest::Proxy::all("socks5h://127.0.0.1:1080")?)
+            .build()?
+    };
         
     let response = client
         .post("https://api.groq.com/openai/v1/chat/completions")
